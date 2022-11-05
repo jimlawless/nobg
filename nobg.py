@@ -14,6 +14,7 @@ if __name__ == "__main__":
     parser.add_argument("-infile",required=True)
     parser.add_argument("-outfile",required=True)
     args=parser.parse_args()
+    print("Converting",args.infile,"to",args.outfile)
     inp = Image.open(args.infile)
     output = remove(inp)
     output.save(args.outfile)
