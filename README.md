@@ -1,2 +1,2 @@
 # nobg
-nobg is a script to remove image backgrounds
+nobg is a Python script to remove image backgrounds
