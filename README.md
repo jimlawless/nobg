@@ -5,5 +5,5 @@ Right now, I don't think this works with the current version of Python.
 
 Please see the blog post at:
 
-https://jiml.us/blog/posts/rembg/
+https://jimlawless.net/blog/posts/rembg/
 
